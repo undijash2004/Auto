@@ -1,0 +1,23 @@
+/* Home.css */
+
+.home-container {
+    text-align: center;
+    color: aqua;
+    margin-top: 0px;
+    background-image: url('./jash4.png');
+    background-size: cover ;
+    background-position: top;
+    background-repeat: no-repeat;
+   height: 100vh;
+    /* Add any additional styling for home-container */
+  }
+  
+  .body {
+    text-align: center;
+    color: #5f5555; /* Change the color to your preferred text color */
+    padding: 0px;
+    background-color: #f1d2d2;
+    /* Add any additional styling for the body */
+  }
+  
+  /* Add more styles as needed */
